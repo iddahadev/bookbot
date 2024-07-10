@@ -1,6 +1,6 @@
 # Bookbot
 
-This is my first Python project. It is part of the curiculum on [boot.dev](https://www.boot.dev) to become a Backend Developer!
+This is my first Python project. It is part of the curriculum on [boot.dev](https://www.boot.dev) to become a Backend Developer!
 
 ## Run Locally
 
@@ -24,4 +24,4 @@ python3 main.py
 
 ## Feedback
 
-As my first Python program, feedbacks are more than welcome! You can find me on [X (formerly Twitter)](https://www.x.com/iddahadev) or Discord (@iddahadev).
+As my first Python program, feedback is more than welcome! You can find me on [X (formerly Twitter)](https://www.x.com/iddahadev) or Discord (@iddahadev).
